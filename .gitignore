@@ -1,0 +1,16 @@
+__pycache__
+*.sqlite
+*.sqlite.xz
+/dataset
+*.sqlite-journal
+/*.json
+/*.torrent
+.ipynb_checkpoints
+/result
+/cache
+/fast_vacuum.exe
+/fast_vacuum
+/import.sh
+/import.bat
+/retrieve.sh
+/retrieve.bat
